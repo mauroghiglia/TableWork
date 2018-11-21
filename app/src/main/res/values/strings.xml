@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TableWork</string>
+    <string name="number_hint">Enter Student Number</string>
+    <string name="name_hint">Enter Student Name</string>
+    <string name="surname_hint">Enter Student Surname</string>
+    <string name="address_hint">Enter Student Address</string>
+    <string name="average_hint">Enter Student Average</string>
+    <string name="enter_btn">Enter Data</string>
+    <string name="show_btn">Show Best Students</string>
+    <string name="delete_btn">Delete Data</string>
+</resources>
